@@ -1,0 +1,44 @@
+html
+{
+	background-color: white;
+}
+
+
+#logo
+{
+display : flex;
+justify-content: center;
+}
+
+#recherche
+{
+display : flex;
+justify-content: center;
+}
+
+.ecrire
+{
+width: 420px;
+height : 25px;
+outline: none;
+background: transparent;
+border: none;
+font-size: 15px
+}
+
+.button
+{
+margin: 150px 10px 0 0;
+font-size: 15px;
+padding: 8px 15px;
+border: none;
+color: #6e6e6e;
+border-radius: 5px;
+}
+
+#footer
+{
+display : flex;
+justify-content: center;
+align-items: flex-end;
+}
